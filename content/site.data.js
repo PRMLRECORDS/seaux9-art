@@ -1,0 +1,529 @@
+// AUTO-GENERATED from site.json — edit site.json, then run scripts/build.py
+window.SEAUX9_DATA = {
+  "artist": {
+    "name": "SEAUX9",
+    "tagline": "Artist. Producer. Sonic Shaman.",
+    "greeting": "I speak peace onto you. Stay blessed.",
+    "bio": "Dodley Joseph better known as Seaux9 is a Haitian rapper, songwriter, and record producer. Since his mainstream debut in 2019 with Field Nxtez, Seaux9 has been regarded as one of the most influential artists of his generation and those to come.",
+    "bioExtra": "From Lake Worth, Florida to West End Atlanta — award-winning producer, music-tech teacher, farmer, and founder of the 9Society. His catalog moves through hip-hop, Afrobeats and healing frequencies, and 20% of Feeled Notez profits support Hope For Haiti.",
+    "location": "Atlanta, GA · Ayiti roots",
+    "label": "PRML RECORDS",
+    "mission": "I look to elevate our experience through sound."
+  },
+  "releases": [
+    {
+      "id": "tanbou-digital",
+      "title": "TANBOU DIGITAL",
+      "year": "2024",
+      "type": "Album",
+      "color": "turquoise",
+      "story": "The drum goes digital. Ayiti's heartbeat, rewired for the future.",
+      "note": "",
+      "links": {
+        "stream": "https://distrokid.com/hyperfollow/seaux9/tanbou-digital-6?ref=release"
+      },
+      "buy": {
+        "cd": "tbd-cd",
+        "digital": "tbd-digital"
+      }
+    },
+    {
+      "id": "feeled-notez-vol2",
+      "title": "Feeled Notez VOL. 2",
+      "year": "2023",
+      "type": "Album",
+      "color": "red",
+      "story": "Out of the forest and into the water — the warrior child embarks on a journey through a sea of mystery. Love, transformation, introspection.",
+      "note": "20% of profits support Hope For Haiti relief.",
+      "links": {
+        "stream": "https://distrokid.com/hyperfollow/seaux9/feeled-notez-vol-2-2?ref=release"
+      },
+      "buy": {
+        "cd": "fn2-cd",
+        "vinyl": "fn2-vinyl",
+        "digital": "fn2-digital"
+      }
+    },
+    {
+      "id": "field-nxtez",
+      "title": "Field NXTEZ",
+      "year": "2019",
+      "type": "The Debut EP",
+      "color": "orange",
+      "story": "The mainstream debut. 65,000+ streams, a meeting with Spotify, and the first NFT produced, mixed and mastered by an independent Haitian artist.",
+      "note": "",
+      "links": {
+        "stream": "https://distrokid.com/hyperfollow/seaux9/field-nxtez-3?ref=release"
+      },
+      "buy": {
+        "cd": "fnx-cd",
+        "digital": "fnx-digital"
+      }
+    }
+  ],
+  "store": {
+    "pitch": "Streams feed the algorithm. OWNING the music feeds the artist. Every CD and poster ships with a QR + NFC sticker unlocking an exclusive site — stream it, download it free, and get behind-the-scenes access. Best of both worlds.",
+    "music": [
+      {
+        "id": "fn2-cd",
+        "name": "FEELED NOTEZ VOL. 2 — CD",
+        "format": "CD · Pre-Order",
+        "price": "$22.22",
+        "url": "https://buy.stripe.com/eVq00kaH3gc69Ho0si1ZS19",
+        "note": "QR + NFC → exclusive stream & free download"
+      },
+      {
+        "id": "fn2-vinyl",
+        "name": "FEELED NOTEZ VOL. 2 — VINYL",
+        "format": "Record · Pre-Order",
+        "price": "$100.00",
+        "url": "https://buy.stripe.com/aFabJ202pe3Yg5M0si1ZS1c",
+        "note": "Limited pressing"
+      },
+      {
+        "id": "fn2-digital",
+        "name": "FEELED NOTEZ VOL. 2 — DIGITAL",
+        "format": "MP3 Download",
+        "price": "$22.22",
+        "url": "https://buy.stripe.com/fZu3cweXj4to4n4fnc1ZS1d",
+        "note": "Instant + BTS graphics & lyric videos"
+      },
+      {
+        "id": "tbd-cd",
+        "name": "TANBOU DIGITAL — CD",
+        "format": "CD",
+        "price": "$17.99",
+        "url": "https://buy.stripe.com/7sYeVeg1ngc66vcb6W1ZS1b",
+        "note": "QR + NFC → exclusive stream & free download"
+      },
+      {
+        "id": "tbd-digital",
+        "name": "TANBOU DIGITAL — DIGITAL",
+        "format": "MP3 Download",
+        "price": "$9.00",
+        "url": "https://buy.stripe.com/3cIeVeg1nbVQ3j0b6W1ZS1f",
+        "note": "Instant access"
+      },
+      {
+        "id": "fnx-cd",
+        "name": "FIELD NXTEZ — CD",
+        "format": "CD",
+        "price": "$17.99",
+        "url": "https://buy.stripe.com/4gM8wQ3eB8JE9Ho8YO1ZS1a",
+        "note": "QR + NFC → exclusive stream & free download"
+      },
+      {
+        "id": "fnx-digital",
+        "name": "FIELD NXTEZ — DIGITAL",
+        "format": "MP3 Download",
+        "price": "$9.00",
+        "url": "https://buy.stripe.com/fZuaEY6qNbVQ06Ocb01ZS1e",
+        "note": "Instant access"
+      }
+    ],
+    "merch": [
+      {
+        "id": "fn-shirt",
+        "name": "FEELED NOTEZ DTG SHIRT",
+        "format": "Shirt · S–2XL · drop-shipped",
+        "price": "$36.00",
+        "url": "https://buy.stripe.com/28EeVe3eB9NIcTA0si1ZS1g",
+        "note": "QR + NFC on the tag → stream & download"
+      },
+      {
+        "id": "fn2-poster",
+        "name": "FEELED NOTEZ VOL. 2 POSTER",
+        "format": "Poster",
+        "price": "$15.00",
+        "url": "https://buy.stripe.com/dRmeVe8yVcZU06O0si1ZS1h",
+        "note": "Artwork by Divine Pansy Art"
+      },
+      {
+        "id": "tbd-poster",
+        "name": "TANBOU DIGITAL POSTER",
+        "format": "Poster",
+        "price": "$15.00",
+        "url": "https://buy.stripe.com/00w4gA2ax1hc2eWgrg1ZS1j",
+        "note": ""
+      },
+      {
+        "id": "fnx-poster",
+        "name": "FIELD NXTEZ POSTER",
+        "format": "Poster",
+        "price": "$15.00",
+        "url": "https://buy.stripe.com/14A6oI9CZaRMdXE3Eu1ZS1i",
+        "note": ""
+      },
+      {
+        "id": "stickers",
+        "name": "STICKER PACK",
+        "format": "Stickers",
+        "price": "Soon",
+        "url": "",
+        "note": "Haitian Coat of Arms + 9Society"
+      },
+      {
+        "id": "cassettes",
+        "name": "CASSETTES",
+        "format": "Tape",
+        "price": "Soon",
+        "url": "",
+        "note": "For the collectors"
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "name": "9SQUAD FREE",
+      "price": "$0",
+      "cadence": "forever",
+      "color": "turquoise",
+      "perks": [
+        "First word on shows & drops",
+        "Mailing list exclusives",
+        "Free download surprises"
+      ],
+      "cta": "Join free",
+      "url": "https://tally.so/r/D4EQbl"
+    },
+    {
+      "name": "SUPPORTER",
+      "price": "Any amount",
+      "cadence": "one time",
+      "color": "orange",
+      "perks": [
+        "Everyone who's ever bought or donated",
+        "Early merch access + discount codes",
+        "Name in the credits of the movement"
+      ],
+      "cta": "Donate once ✦",
+      "url": "https://donate.stripe.com/3cIdRa3eBaRMdXEdf41ZS1k"
+    },
+    {
+      "name": "INNER CIRCLE",
+      "price": "$9.99",
+      "cadence": "per month",
+      "color": "red",
+      "featured": true,
+      "perks": [
+        "Ticketed livestream shows INCLUDED",
+        "Advance access to live events",
+        "Behind-the-scenes + unreleased cuts",
+        "Member discounts on all merch"
+      ],
+      "cta": "Subscribe ✦",
+      "url": "https://buy.stripe.com/dRm6oIeXj3pkbPwdf41ZS1l"
+    }
+  ],
+  "donate": {
+    "url": "https://donate.stripe.com/3cIdRa3eBaRMdXEdf41ZS1k",
+    "line": "Fuel the art directly — any amount, one time or whenever the spirit moves you."
+  },
+  "mailing": {
+    "url": "https://tally.so/r/D4EQbl",
+    "pitch": "Name + email + phone. First word on everything. No spam, ever."
+  },
+  "press": [
+    {
+      "outlet": "VoyageATL",
+      "title": "Conversations with Dodley “Seaux9” Joseph",
+      "quote": "In 2021... I sold 1 million records that year.",
+      "url": "https://voyageatl.com/interview/conversations-with-dodley-seaux9-joseph/"
+    },
+    {
+      "outlet": "ShoutoutAtlanta",
+      "title": "Meet Dodley “Seaux9” Joseph",
+      "quote": "Songwriter, record producer, engineer, meta producer, NFT artist & collector.",
+      "url": "https://shoutoutatlanta.com/meet-dodley-seaux9-joseph-songwriter-record-producer-engineer-meta-producer-nft-artist-collector/"
+    },
+    {
+      "outlet": "Gwinnett Daily Post",
+      "title": "Featured: teaching the next generation",
+      "quote": "Music, tech and dominoes — passing the craft down.",
+      "url": "https://www.facebook.com/dodley.joseph.2025/posts/3994831537235084/"
+    },
+    {
+      "outlet": "TrueEmpire",
+      "title": "Home-studio interview",
+      "quote": "Biggie stopped by my home studio to ask me some personal questions.",
+      "url": "https://youtu.be/q7QocZpFhf0"
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2011",
+      "what": "Producer Excellence Award — Gwinnett Media Festival"
+    },
+    {
+      "year": "2019",
+      "what": "Field Nxtez debut — 65k+ streams, meeting with Spotify"
+    },
+    {
+      "year": "2021",
+      "what": "1,000,000 records sold. First independent Haitian artist-produced NFT"
+    },
+    {
+      "year": "NOW",
+      "what": "9Society rising. The movement is live"
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/img/photos/seaux9-machete-drum.jpg",
+      "alt": "SEAUX9 with djembe drum and machete",
+      "caption": "The warrior child"
+    },
+    {
+      "src": "assets/img/photos/seaux9-fountain.jpg",
+      "alt": "SEAUX9 balancing at the water",
+      "caption": "Out of the forest, into the water"
+    },
+    {
+      "src": "assets/img/photos/seaux9-studio.jpg",
+      "alt": "SEAUX9 in the studio",
+      "caption": "In session"
+    },
+    {
+      "src": "assets/img/photos/seaux9-haiti-flag.jpg",
+      "alt": "SEAUX9 holding the Haitian flag",
+      "caption": "Ayiti forever"
+    },
+    {
+      "src": "assets/img/photos/seaux9-9squad-woods.jpg",
+      "alt": "SEAUX9 with the 9Squad",
+      "caption": "9Squad outside"
+    },
+    {
+      "src": "assets/img/photos/seaux9-event.jpg",
+      "alt": "SEAUX9 at a show",
+      "caption": "In the flesh"
+    }
+  ],
+  "events": [
+    {
+      "id": "waterfalls-vibes-s2",
+      "title": "Waterfalls & Vibes — Season 2",
+      "date": "2026-08-09",
+      "displayDate": "AUG 9 · 2026",
+      "time": "2:22 PM – 5:55 PM",
+      "venue": "Cascade Nature Preserve",
+      "city": "Atlanta, GA",
+      "info": "Afrobeats by the falls — live music, community, nonprofits in the park.",
+      "cta": "RSVP",
+      "link": "https://tally.so/r/D4EQbl",
+      "livestream": false
+    },
+    {
+      "id": "westview-market",
+      "title": "Westview Community Market",
+      "date": "2026-08-09",
+      "displayDate": "AUG 9 · 2026",
+      "time": "12:00 PM",
+      "venue": "Westview",
+      "city": "Atlanta, GA",
+      "info": "Pull up on the West End — music, vendors, community.",
+      "cta": "Vend / RSVP",
+      "link": "https://tally.so/r/D4EQbl",
+      "livestream": false
+    },
+    {
+      "id": "paint-and-jam",
+      "title": "Paint & Jam",
+      "date": "2026-09-13",
+      "displayDate": "SEP 13 · 2026",
+      "time": "4:00 PM – 10:00 PM",
+      "venue": "BAF Kemet Club, 2835 Church St",
+      "city": "Atlanta, GA",
+      "info": "Live band, drum circle, arts & crafts. Games 4–6, performance 7–10.",
+      "cta": "Details",
+      "link": "https://tally.so/r/D4EQbl",
+      "livestream": false
+    }
+  ],
+  "posts": [
+    {
+      "id": "welcome-seaux9-art",
+      "date": "2026-07-24",
+      "title": "Welcome to seaux9.art",
+      "body": "New home. Same frequency. The art, the events, the movement — all of it lives here now. seaux9.com comes back to us in 2027; until then, this is the temple.",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "id": "9squad-roll-call",
+      "date": "2026-07-24",
+      "title": "9Squad Roll Call",
+      "body": "Every stream, every share, every pull-up at the shows — that's what keeps independent art alive. I see you. Stay tuned for what's coming this fall.",
+      "tags": [
+        "9squad"
+      ]
+    }
+  ],
+  "giving": {
+    "title": "The Mansa Project",
+    "body": "Building toward a school in Haiti — supplying children with the tools for prosperous, fulfilling lives. Facility, computers, supplies, teachers. Brick by brick.",
+    "link": "https://www.gofundme.com/the-mansa-project",
+    "partner": "In collaboration with Tribe Fyah · supporting Hope For Haiti · 20% of Feeled Notez profits donated"
+  },
+  "worlds": [
+    {
+      "name": "9Society Apparel",
+      "desc": "Custom clothing line. Wear the frequency.",
+      "link": "#store"
+    },
+    {
+      "name": "Soul Foods Farm",
+      "desc": "Microgreens & mushrooms, grown in Atlanta soil.",
+      "link": "https://soulfoods.farm"
+    },
+    {
+      "name": "PRML RECORDS",
+      "desc": "The label. The family. The engine. Book SEAUX9 here.",
+      "link": "https://prmlrecords.com"
+    }
+  ],
+  "booking": {
+    "url": "https://prmlrecords.com/seaux9booking.html",
+    "line": "Booking runs through PRML RECORDS — sound engineering, production, and performances."
+  },
+  "socials": [
+    {
+      "name": "Instagram",
+      "handle": "@seaux9",
+      "url": "https://www.instagram.com/seaux9/"
+    },
+    {
+      "name": "TikTok",
+      "handle": "@officialSEAUX9",
+      "url": "https://www.tiktok.com/@officialseaux9"
+    },
+    {
+      "name": "Fanbase",
+      "handle": "seaux9",
+      "url": "https://fanbase.app/seaux9"
+    },
+    {
+      "name": "Spotify",
+      "handle": "SEAUX9",
+      "url": "https://open.spotify.com/artist/0c0QskhRkDzvmJdVrv7A6o"
+    },
+    {
+      "name": "SoundCloud",
+      "handle": "seaux9",
+      "url": "https://soundcloud.com/seaux9"
+    },
+    {
+      "name": "YouTube",
+      "handle": "SEAUX9",
+      "url": "https://www.youtube.com/channel/UC6TuJPhwlcVTSGKE-WOQlJg"
+    },
+    {
+      "name": "X",
+      "handle": "@seaux9",
+      "url": "https://twitter.com/seaux9"
+    },
+    {
+      "name": "Facebook",
+      "handle": "/seaux999",
+      "url": "https://www.facebook.com/seaux999"
+    },
+    {
+      "name": "Threads",
+      "handle": "@seaux9",
+      "url": "https://www.threads.com/@seaux9"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "F3",
+      "note": "The final chapter of the Fields trilogy",
+      "status": "In the works"
+    },
+    {
+      "title": "DAZE OF OLDE",
+      "note": "Mixtape — unreleased recordings with Atlanta musicians & performers, finally set free",
+      "status": "Coming soon"
+    },
+    {
+      "title": "TANBOU DIGITAL VOL. 2 — MAN VS MACHINE",
+      "note": "Older productions meet new MPC live cuts",
+      "status": "Coming soon"
+    },
+    {
+      "title": "SESSIONS WITH SEAUX",
+      "note": "Acoustic series — live recordings, raw and unplugged",
+      "status": "Series"
+    }
+  ],
+  "arsenal": {
+    "pitch": "The machines behind the sound. Tap any brand to shop the gear we actually use — some links support the movement directly.",
+    "sponsorCta": {
+      "line": "Your brand here — paid placements, UGC content & brand-ambassador packages for companies in music, creation, community & education.",
+      "cta": "Sponsor SEAUX9",
+      "url": "mailto:info@prmlrecords.com?subject=Brand%20Partnership%20with%20SEAUX9"
+    },
+    "gear": [
+      {
+        "name": "Akai MPC",
+        "role": "The heartbeat — every beat lives here",
+        "url": "",
+        "status": "outreach-sent"
+      },
+      {
+        "name": "Audio-Technica",
+        "role": "Studio monitoring & mics",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Shure",
+        "role": "Stage & studio mics",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Yamaha",
+        "role": "Keys & sound",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Behringer",
+        "role": "Mixing & interfaces",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Steinberg",
+        "role": "Cubase — the DAW",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Casio",
+        "role": "First keys never die",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Apple / GarageBand",
+        "role": "Sketches on the iPad",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "SmallRig",
+        "role": "Camera rigging for the content",
+        "url": "",
+        "status": "target"
+      },
+      {
+        "name": "Dell",
+        "role": "The workstation",
+        "url": "",
+        "status": "target"
+      }
+    ]
+  }
+};
