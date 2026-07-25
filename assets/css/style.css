@@ -514,6 +514,20 @@ body {
   transition: all .2s; white-space: nowrap;
 }
 .ev-cta:hover { background: var(--red); transform: rotate(-2deg) scale(1.05); }
+.ev-soon { background: transparent; color: var(--ink); border: 2px dashed color-mix(in srgb, var(--ink) 45%, transparent); cursor: default; }
+.ev-soon:hover { background: transparent; transform: none; }
+.cal-sync {
+  max-width: 1280px; margin: 2.2rem auto 0;
+  padding-left: clamp(1.2rem, 6vw, 6rem); padding-right: clamp(1.2rem, 6vw, 6rem);
+  display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;
+}
+.cal-sync-label { font-weight: 700; font-size: 1.02rem; }
+.cal-btn {
+  font-family: var(--disp); font-size: 0.95rem; letter-spacing: 0.06em; text-decoration: none;
+  color: var(--paper); background: var(--ink); padding: 0.4rem 1.15rem; border-radius: 999px;
+  transition: all .2s;
+}
+.cal-btn:hover { background: var(--red); transform: rotate(-2deg) scale(1.05); }
 .events-foot { margin-top: 2rem; font-size: 1.05rem; font-weight: 400; }
 .events-foot a { color: var(--red); font-weight: 700; }
 @media (max-width: 680px) {

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SEAUX9//seaux9.art//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SEAUX9 Events
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Every SEAUX9 show and pull-up. seaux9.art
+BEGIN:VEVENT
+UID:waterfalls-vibes-s2@seaux9.art
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=America/New_York:20260809T142200
+DTEND;TZID=America/New_York:20260809T175500
+SUMMARY:SEAUX9 — Waterfalls & Vibes — Season 2
+DESCRIPTION:Afrobeats by the falls — live music\, community\, nonprofits in the park.
+LOCATION:Cascade Nature Preserve\, Atlanta\, GA
+URL:https://seaux9.art/#events
+END:VEVENT
+BEGIN:VEVENT
+UID:westview-market@seaux9.art
+DTSTAMP:20260809T000000Z
+DTSTART;TZID=America/New_York:20260809T120000
+DTEND;TZID=America/New_York:20260809T150000
+SUMMARY:SEAUX9 — Westview Community Market
+DESCRIPTION:Hosted by PRML RECORDS — music\, vendors\, community on the West End.
+LOCATION:Westview MakerSpace\, Atlanta\, GA
+URL:https://seaux9.art/#events
+END:VEVENT
+BEGIN:VEVENT
+UID:paint-and-jam@seaux9.art
+DTSTAMP:20260913T000000Z
+DTSTART;TZID=America/New_York:20260913T160000
+DTEND;TZID=America/New_York:20260913T220000
+SUMMARY:SEAUX9 — Paint & Jam
+DESCRIPTION:Live band\, drum circle\, arts & crafts. Games 4–6\, performance 7–10.
+LOCATION:BAF Kemet Club\, 2835 Church St\, Atlanta\, GA
+URL:https://seaux9.art/#events
+END:VEVENT
+BEGIN:VEVENT
+UID:stilllife-aug26@seaux9.art
+DTSTAMP:20260826T000000Z
+DTSTART;TZID=America/New_York:20260826T200000
+DTEND;TZID=America/New_York:20260826T230000
+SUMMARY:SEAUX9 — StillLife Sessions ✕ Artco.Nexus — SEAUX9 LIVE
+DESCRIPTION:With King Julian (@KINGju16). Haitian · Latin · House · Hip-Hop · Afro Freedom Househop. $20 artists & enthusiasts · $10 w/ student ID · $40 photography.
+LOCATION:Westview Maker Space\, 1554 Ralph David Abernathy Blvd SW\, Atlanta\, GA 30310
+URL:https://seaux9.art/#events
+END:VEVENT
+END:VCALENDAR

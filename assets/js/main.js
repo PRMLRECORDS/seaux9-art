@@ -92,7 +92,9 @@
             <p class="ev-venue">${esc(e.venue)} · ${esc(e.city)} · ${esc(e.time)}</p>
             <p class="ev-info">${esc(e.info)}</p>
           </div>
-          <a class="ev-cta" href="${esc(e.link)}" ${e.link.startsWith('http') ? 'target="_blank" rel="noopener"' : ''}>${esc(e.cta)} →</a>
+          ${e.link
+            ? `<a class="ev-cta" href="${esc(e.link)}" ${e.link.startsWith('http') ? 'target="_blank" rel="noopener"' : ''}>${esc(e.cta)} →</a>`
+            : `<span class="ev-cta ev-soon">${esc(e.cta)}</span>`}
         </article>`;
       }).join('');
     });

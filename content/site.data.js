@@ -329,8 +329,8 @@ window.SEAUX9_DATA = {
       "venue": "Westview MakerSpace",
       "city": "Atlanta, GA",
       "info": "Hosted by PRML RECORDS — music, vendors, community on the West End.",
-      "cta": "Vend / RSVP",
-      "link": "https://tally.so/r/D4EQbl",
+      "cta": "Forms dropping soon",
+      "link": "",
       "livestream": false
     },
     {
