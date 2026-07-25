@@ -74,7 +74,7 @@ window.SEAUX9_DATA = {
       {
         "id": "fn2-cd",
         "name": "FEELED NOTEZ VOL. 2 — CD",
-        "format": "CD · Pre-Order",
+        "format": "CD · OUT NOW",
         "price": "$22.22",
         "url": "https://buy.stripe.com/eVq00kaH3gc69Ho0si1ZS19",
         "note": "QR + NFC → exclusive stream & free download"
@@ -82,10 +82,10 @@ window.SEAUX9_DATA = {
       {
         "id": "fn2-vinyl",
         "name": "FEELED NOTEZ VOL. 2 — VINYL",
-        "format": "Record · Pre-Order",
+        "format": "Record · OUT NOW",
         "price": "$100.00",
         "url": "https://buy.stripe.com/aFabJ202pe3Yg5M0si1ZS1c",
-        "note": "Limited pressing"
+        "note": "Limited pressing — records are HERE"
       },
       {
         "id": "fn2-digital",
@@ -344,6 +344,19 @@ window.SEAUX9_DATA = {
       "info": "Live band, drum circle, arts & crafts. Games 4–6, performance 7–10.",
       "cta": "Details",
       "link": "https://tally.so/r/D4EQbl",
+      "livestream": false
+    },
+    {
+      "id": "stilllife-aug26",
+      "title": "StillLife Sessions ✕ Artco.Nexus — SEAUX9 LIVE",
+      "date": "2026-08-26",
+      "displayDate": "AUG 26 · 2026",
+      "time": "8:00 PM – 11:00 PM",
+      "venue": "Westview Maker Space, 1554 Ralph David Abernathy Blvd SW",
+      "city": "Atlanta, GA 30310",
+      "info": "With King Julian (@KINGju16). Haitian · Latin · House · Hip-Hop · Afro Freedom Househop. $20 artists & enthusiasts · $10 w/ student ID · $40 photography.",
+      "cta": "Pull up",
+      "link": "https://tally.so/r/D4EQbl?source=stilllife",
       "livestream": false
     }
   ],
