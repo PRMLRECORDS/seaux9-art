@@ -192,8 +192,8 @@
 
     // ── ticker ──
     set('ticker-track', (el) => {
-      const items = ['9SQUAD', 'OWN THE MUSIC', 'AYITI ✦ ATLANTA', 'PRML RECORDS',
-        'TANBOU DIGITAL', 'FEELED NOTEZ', '9SOCIETY', 'STAY BLESSED'];
+      const items = ['9SQUAD', 'OWN THE MUSIC', 'AFRO FREEDOM HOUSEHOP', 'AYITI ✦ ATLANTA',
+        'PRML RECORDS', 'TANBOU DIGITAL', '9SOCIETY', 'STAY BLESSED'];
       const run = items.map((t) => `<span>${esc(t)}</span><span>✦</span>`).join('');
       el.innerHTML = run + run; // doubled for seamless loop
     });

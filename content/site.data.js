@@ -5,10 +5,17 @@ window.SEAUX9_DATA = {
     "tagline": "Artist. Producer. Sonic Shaman.",
     "greeting": "I speak peace onto you. Stay blessed.",
     "bio": "Dodley Joseph better known as Seaux9 is a Haitian rapper, songwriter, and record producer. Since his mainstream debut in 2019 with Field Nxtez, Seaux9 has been regarded as one of the most influential artists of his generation and those to come.",
-    "bioExtra": "From Lake Worth, Florida to West End Atlanta — award-winning producer, music-tech teacher, farmer, and founder of the 9Society. His catalog moves through hip-hop, Afrobeats and healing frequencies, and 20% of Feeled Notez profits support Hope For Haiti.",
+    "bioExtra": "From Lake Worth, Florida to West End Atlanta — award-winning producer, music-tech teacher, farmer, and founder of the 9Society. His catalog moves through hip-hop, Afrobeats and healing frequencies, and 20% of Feeled Notez profits support Hope For Haiti. His sound moves through Haitian roots, Latin fire, house grooves and hip-hop — a blend he calls AFRO FREEDOM HOUSEHOP.",
     "location": "Atlanta, GA · Ayiti roots",
     "label": "PRML RECORDS",
-    "mission": "I look to elevate our experience through sound."
+    "mission": "I look to elevate our experience through sound.",
+    "genres": [
+      "Haitian",
+      "Latin",
+      "House",
+      "Hip-Hop",
+      "AFRO FREEDOM HOUSEHOP"
+    ]
   },
   "releases": [
     {
@@ -157,10 +164,10 @@ window.SEAUX9_DATA = {
       {
         "id": "stickers",
         "name": "STICKER PACK",
-        "format": "Stickers",
-        "price": "Soon",
-        "url": "",
-        "note": "Haitian Coat of Arms + 9Society"
+        "format": "3-Pack",
+        "price": "$4.99",
+        "url": "https://buy.stripe.com/4gM5kEbL79NIaLsa2S1ZS1m",
+        "note": "Logo + Haitian Coat of Arms + 9Society"
       },
       {
         "id": "cassettes",
@@ -168,7 +175,7 @@ window.SEAUX9_DATA = {
         "format": "Tape",
         "price": "Soon",
         "url": "",
-        "note": "For the collectors"
+        "note": "For the collectors — records (vinyl) pre-order live above"
       }
     ]
   },
@@ -319,9 +326,9 @@ window.SEAUX9_DATA = {
       "date": "2026-08-09",
       "displayDate": "AUG 9 · 2026",
       "time": "12:00 PM",
-      "venue": "Westview",
+      "venue": "Westview MakerSpace",
       "city": "Atlanta, GA",
-      "info": "Pull up on the West End — music, vendors, community.",
+      "info": "Hosted by PRML RECORDS — music, vendors, community on the West End.",
       "cta": "Vend / RSVP",
       "link": "https://tally.so/r/D4EQbl",
       "livestream": false
