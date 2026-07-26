@@ -332,7 +332,7 @@ window.SEAUX9_DATA = {
       "city": "Atlanta, GA",
       "info": "Waterfalls & Vibes — Afrobeats by the falls. Live music, community, nonprofits in the park.",
       "cta": "RSVP",
-      "link": "https://tally.so/r/D4EQbl",
+      "link": "https://tally.so/r/XxdLQY?source=site",
       "livestream": false
     },
     {
