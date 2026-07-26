@@ -1,0 +1,150 @@
+{
+  "batch": "stilllife-0722",
+  "template": "v4-fullframe-animated",
+  "cadence": "5/day",
+  "batch_dir": "00_DROPBOX/videos-out/reels-stilllife-0722-v4",
+  "posted": [
+    {
+      "file": "reel-04 (v4 fullframe)",
+      "platform": "instagram",
+      "date": "2026-07-25"
+    },
+    {
+      "file": "reel-22-polaroid (v5 card style)",
+      "platform": "instagram",
+      "date": "2026-07-25"
+    }
+  ],
+  "items": [
+    {
+      "file": "reel-01-quick-v1.mp4",
+      "src": "video1",
+      "start": 13.9,
+      "len": 15
+    },
+    {
+      "file": "reel-02-quick-v1.mp4",
+      "src": "video1",
+      "start": 121.7,
+      "len": 15
+    },
+    {
+      "file": "reel-03-quick-v1.mp4",
+      "src": "video1",
+      "start": 196.5,
+      "len": 15
+    },
+    {
+      "file": "reel-04-quick-v1.mp4",
+      "src": "video1",
+      "start": 255.2,
+      "len": 15
+    },
+    {
+      "file": "reel-05-deep-v1.mp4",
+      "src": "video1",
+      "start": 25.8,
+      "len": 32
+    },
+    {
+      "file": "reel-06-deep-v1.mp4",
+      "src": "video1",
+      "start": 168.0,
+      "len": 32
+    },
+    {
+      "file": "reel-07-quick-v2.mp4",
+      "src": "video2",
+      "start": 15.2,
+      "len": 15
+    },
+    {
+      "file": "reel-08-quick-v2.mp4",
+      "src": "video2",
+      "start": 116.7,
+      "len": 15
+    },
+    {
+      "file": "reel-09-quick-v2.mp4",
+      "src": "video2",
+      "start": 244.6,
+      "len": 15
+    },
+    {
+      "file": "reel-10-quick-v2.mp4",
+      "src": "video2",
+      "start": 297.7,
+      "len": 15
+    },
+    {
+      "file": "reel-11-deep-v2.mp4",
+      "src": "video2",
+      "start": 23.3,
+      "len": 32
+    },
+    {
+      "file": "reel-12-deep-v2.mp4",
+      "src": "video2",
+      "start": 273.3,
+      "len": 32
+    },
+    {
+      "file": "reel-13-quick-v3.mp4",
+      "src": "video3",
+      "start": 22.2,
+      "len": 15
+    },
+    {
+      "file": "reel-14-quick-v3.mp4",
+      "src": "video3",
+      "start": 105.6,
+      "len": 15
+    },
+    {
+      "file": "reel-15-quick-v3.mp4",
+      "src": "video3",
+      "start": 162.8,
+      "len": 15
+    },
+    {
+      "file": "reel-16-quick-v3.mp4",
+      "src": "video3",
+      "start": 216.6,
+      "len": 15
+    },
+    {
+      "file": "reel-17-deep-v3.mp4",
+      "src": "video3",
+      "start": 63.2,
+      "len": 32
+    },
+    {
+      "file": "reel-18-deep-v3.mp4",
+      "src": "video3",
+      "start": 156.7,
+      "len": 32
+    },
+    {
+      "file": "reel-19-collage.mp4",
+      "src": "mix-all-3",
+      "start": 0,
+      "len": 36
+    },
+    {
+      "file": "reel-20-collage.mp4",
+      "src": "mix-all-3",
+      "start": 0,
+      "len": 36
+    },
+    {
+      "file": "reel-21-collage.mp4",
+      "src": "mix-all-3",
+      "start": 0,
+      "len": 36
+    }
+  ],
+  "styles": {
+    "v4-fullframe-animated": "default batch",
+    "v5-polaroid-card": "special editions (make_card.py + card-v5.png)"
+  }
+}
