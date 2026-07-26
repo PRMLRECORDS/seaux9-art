@@ -32,7 +32,8 @@ window.SEAUX9_DATA = {
       "buy": {
         "cd": "tbd-cd",
         "digital": "tbd-digital"
-      }
+      },
+      "img": "assets/img/products/tanbou-cover.jpg"
     },
     {
       "id": "feeled-notez-vol2",
@@ -49,7 +50,8 @@ window.SEAUX9_DATA = {
         "cd": "fn2-cd",
         "vinyl": "fn2-vinyl",
         "digital": "fn2-digital"
-      }
+      },
+      "img": "assets/img/products/fn2-cover.jpg"
     },
     {
       "id": "field-nxtez",
@@ -65,7 +67,8 @@ window.SEAUX9_DATA = {
       "buy": {
         "cd": "fnx-cd",
         "digital": "fnx-digital"
-      }
+      },
+      "img": "assets/img/products/fnx-cover.jpg"
     }
   ],
   "store": {
@@ -77,7 +80,8 @@ window.SEAUX9_DATA = {
         "format": "CD · OUT NOW",
         "price": "$22.22",
         "url": "https://buy.stripe.com/eVq00kaH3gc69Ho0si1ZS19",
-        "note": "QR + NFC → exclusive stream & free download"
+        "note": "QR + NFC → exclusive stream & free download",
+        "img": "assets/img/products/fn2-cover.jpg"
       },
       {
         "id": "fn2-vinyl",
@@ -85,7 +89,8 @@ window.SEAUX9_DATA = {
         "format": "Record · OUT NOW",
         "price": "$100.00",
         "url": "https://buy.stripe.com/aFabJ202pe3Yg5M0si1ZS1c",
-        "note": "Limited pressing — records are HERE"
+        "note": "Limited pressing — records are HERE",
+        "img": "assets/img/products/fn2-cover.jpg"
       },
       {
         "id": "fn2-digital",
@@ -93,7 +98,8 @@ window.SEAUX9_DATA = {
         "format": "MP3 Download",
         "price": "$22.22",
         "url": "https://buy.stripe.com/fZu3cweXj4to4n4fnc1ZS1d",
-        "note": "Instant + BTS graphics & lyric videos"
+        "note": "Instant + BTS graphics & lyric videos",
+        "img": "assets/img/products/fn2-cover.jpg"
       },
       {
         "id": "tbd-cd",
@@ -101,7 +107,8 @@ window.SEAUX9_DATA = {
         "format": "CD",
         "price": "$17.99",
         "url": "https://buy.stripe.com/7sYeVeg1ngc66vcb6W1ZS1b",
-        "note": "QR + NFC → exclusive stream & free download"
+        "note": "QR + NFC → exclusive stream & free download",
+        "img": "assets/img/products/tanbou-cover.jpg"
       },
       {
         "id": "tbd-digital",
@@ -109,7 +116,8 @@ window.SEAUX9_DATA = {
         "format": "MP3 Download",
         "price": "$9.00",
         "url": "https://buy.stripe.com/3cIeVeg1nbVQ3j0b6W1ZS1f",
-        "note": "Instant access"
+        "note": "Instant access",
+        "img": "assets/img/products/tanbou-cover.jpg"
       },
       {
         "id": "fnx-cd",
@@ -117,7 +125,8 @@ window.SEAUX9_DATA = {
         "format": "CD",
         "price": "$17.99",
         "url": "https://buy.stripe.com/4gM8wQ3eB8JE9Ho8YO1ZS1a",
-        "note": "QR + NFC → exclusive stream & free download"
+        "note": "QR + NFC → exclusive stream & free download",
+        "img": "assets/img/products/fnx-cover.jpg"
       },
       {
         "id": "fnx-digital",
@@ -125,7 +134,8 @@ window.SEAUX9_DATA = {
         "format": "MP3 Download",
         "price": "$9.00",
         "url": "https://buy.stripe.com/fZuaEY6qNbVQ06Ocb01ZS1e",
-        "note": "Instant access"
+        "note": "Instant access",
+        "img": "assets/img/products/fnx-cover.jpg"
       }
     ],
     "merch": [
@@ -135,7 +145,8 @@ window.SEAUX9_DATA = {
         "format": "Shirt · S–2XL · drop-shipped",
         "price": "$36.00",
         "url": "https://buy.stripe.com/28EeVe3eB9NIcTA0si1ZS1g",
-        "note": "QR + NFC on the tag → stream & download"
+        "note": "QR + NFC on the tag → stream & download",
+        "img": "assets/img/products/fn2-cover.jpg"
       },
       {
         "id": "fn2-poster",
@@ -143,7 +154,8 @@ window.SEAUX9_DATA = {
         "format": "Poster",
         "price": "$15.00",
         "url": "https://buy.stripe.com/dRmeVe8yVcZU06O0si1ZS1h",
-        "note": "Artwork by Divine Pansy Art"
+        "note": "Artwork by Divine Pansy Art",
+        "img": "assets/img/products/fn2-cover.jpg"
       },
       {
         "id": "tbd-poster",
@@ -151,7 +163,8 @@ window.SEAUX9_DATA = {
         "format": "Poster",
         "price": "$15.00",
         "url": "https://buy.stripe.com/00w4gA2ax1hc2eWgrg1ZS1j",
-        "note": ""
+        "note": "",
+        "img": "assets/img/products/tanbou-cover.jpg"
       },
       {
         "id": "fnx-poster",
@@ -159,7 +172,8 @@ window.SEAUX9_DATA = {
         "format": "Poster",
         "price": "$15.00",
         "url": "https://buy.stripe.com/14A6oI9CZaRMdXE3Eu1ZS1i",
-        "note": ""
+        "note": "",
+        "img": "assets/img/products/fnx-cover.jpg"
       },
       {
         "id": "stickers",
@@ -167,7 +181,8 @@ window.SEAUX9_DATA = {
         "format": "3-Pack",
         "price": "$4.99",
         "url": "https://buy.stripe.com/4gM5kEbL79NIaLsa2S1ZS1m",
-        "note": "Logo + Haitian Coat of Arms + 9Society"
+        "note": "Logo + Haitian Coat of Arms + 9Society",
+        "img": "assets/img/seaux9-logo.png"
       },
       {
         "id": "cassettes",
@@ -358,6 +373,19 @@ window.SEAUX9_DATA = {
       "cta": "Pull up",
       "link": "https://tally.so/r/D4EQbl?source=stilllife",
       "livestream": false
+    },
+    {
+      "id": "cumc-car-bike-show",
+      "title": "Central UMC Car & Bike Show — SEAUX9 Performance",
+      "date": "2026-09-26",
+      "displayDate": "SEP 26 · 2026",
+      "time": "10:00 AM – 2:00 PM",
+      "venue": "Central United Methodist Church, 501 MLK Jr Dr SW",
+      "city": "Atlanta, GA 30314",
+      "info": "Classic cars, bikes, and a live SEAUX9 set — family friendly on the West Side.",
+      "cta": "Details",
+      "link": "https://tally.so/r/D4EQbl?source=carshow",
+      "livestream": false
     }
   ],
   "posts": [
@@ -422,11 +450,6 @@ window.SEAUX9_DATA = {
       "name": "Fanbase",
       "handle": "seaux9",
       "url": "https://fanbase.app/seaux9"
-    },
-    {
-      "name": "Spotify",
-      "handle": "SEAUX9",
-      "url": "https://open.spotify.com/artist/0c0QskhRkDzvmJdVrv7A6o"
     },
     {
       "name": "SoundCloud",

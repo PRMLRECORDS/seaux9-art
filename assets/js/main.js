@@ -26,6 +26,7 @@
         return `
         <article class="release c-${esc(r.color)} reveal">
           <span class="rel-type">${esc(r.type)}</span>
+          ${r.img ? `<img class="rel-cover" src="${esc(r.img)}" alt="${esc(r.title)} cover art" loading="lazy">` : ''}
           <h3 class="rel-title">${esc(r.title)}</h3>
           <span class="rel-year">${esc(r.year)}</span>
           <p class="rel-story">${esc(r.story)}</p>
@@ -48,6 +49,7 @@
     // ── store ──
     const productCard = (p) => `
       <article class="product reveal">
+        ${p.img ? `<img class="product-img" src="${esc(p.img)}" alt="${esc(p.name)}" loading="lazy">` : ''}
         <h4 class="product-name">${esc(p.name)}</h4>
         <span class="product-format">${esc(p.format)}</span>
         ${p.note ? `<p class="product-note">${esc(p.note)}</p>` : '<p class="product-note"></p>'}

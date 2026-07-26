@@ -345,6 +345,14 @@ body {
   background: var(--ink-2); transition: all .25s;
 }
 .product:hover { border-color: var(--aqua); transform: translateY(-5px); box-shadow: 0 14px 34px rgba(0,0,0,0.4); }
+.product-img {
+  width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;
+  border: 2px solid color-mix(in srgb, var(--paper) 30%, transparent); margin-bottom: 0.6rem;
+}
+.rel-cover {
+  width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 10px;
+  border: 2px solid var(--paper); margin-bottom: 0.9rem;
+}
 .product-name { font-family: var(--disp); font-size: 1.12rem; line-height: 1.2; }
 .product-format { font-size: 0.82rem; color: var(--aqua); font-weight: 400; }
 .product-note { font-size: 0.82rem; opacity: 0.75; flex: 1; }

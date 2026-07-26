@@ -46,4 +46,14 @@ DESCRIPTION:With King Julian (@KINGju16). Haitian · Latin · House · Hip-Hop �
 LOCATION:Westview Maker Space\, 1554 Ralph David Abernathy Blvd SW\, Atlanta\, GA 30310
 URL:https://seaux9.art/#events
 END:VEVENT
+BEGIN:VEVENT
+UID:cumc-car-bike-show@seaux9.art
+DTSTAMP:20260926T000000Z
+DTSTART;TZID=America/New_York:20260926T100000
+DTEND;TZID=America/New_York:20260926T140000
+SUMMARY:SEAUX9 — Central UMC Car & Bike Show — SEAUX9 Performance
+DESCRIPTION:Classic cars\, bikes\, and a live SEAUX9 set — family friendly on the West Side.
+LOCATION:Central United Methodist Church\, 501 MLK Jr Dr SW\, Atlanta\, GA 30314
+URL:https://seaux9.art/#events
+END:VEVENT
 END:VCALENDAR
