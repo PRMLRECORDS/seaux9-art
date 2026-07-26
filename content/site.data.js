@@ -325,12 +325,12 @@ window.SEAUX9_DATA = {
     {
       "id": "waterfalls-vibes-s2",
       "title": "Waterfalls & Vibes — Season 2",
-      "date": "2026-08-09",
-      "displayDate": "AUG 9 · 2026",
+      "date": "2026-08-01",
+      "displayDate": "AUG 1 · 2026",
       "time": "2:22 PM – 5:55 PM",
       "venue": "Cascade Nature Preserve",
       "city": "Atlanta, GA",
-      "info": "Afrobeats by the falls — live music, community, nonprofits in the park.",
+      "info": "Waterfalls & Vibes — Afrobeats by the falls. Live music, community, nonprofits in the park.",
       "cta": "RSVP",
       "link": "https://tally.so/r/D4EQbl",
       "livestream": false

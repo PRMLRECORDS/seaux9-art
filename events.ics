@@ -8,11 +8,11 @@ X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:Every SEAUX9 show and pull-up. seaux9.art
 BEGIN:VEVENT
 UID:waterfalls-vibes-s2@seaux9.art
-DTSTAMP:20260809T000000Z
-DTSTART;TZID=America/New_York:20260809T142200
-DTEND;TZID=America/New_York:20260809T175500
+DTSTAMP:20260801T000000Z
+DTSTART;TZID=America/New_York:20260801T142200
+DTEND;TZID=America/New_York:20260801T175500
 SUMMARY:SEAUX9 — Waterfalls & Vibes — Season 2
-DESCRIPTION:Afrobeats by the falls — live music\, community\, nonprofits in the park.
+DESCRIPTION:Waterfalls & Vibes — Afrobeats by the falls. Live music\, community\, nonprofits in the park.
 LOCATION:Cascade Nature Preserve\, Atlanta\, GA
 URL:https://seaux9.art/#events
 END:VEVENT
