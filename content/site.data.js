@@ -500,7 +500,7 @@ window.SEAUX9_DATA = {
     }
   ],
   "arsenal": {
-    "pitch": "The machines behind the sound. Tap any brand to shop the gear we actually use — some links support the movement directly.",
+    "pitch": "The machines behind the sound. Every piece here is gear I actually use — shop the exact setup.",
     "sponsorCta": {
       "line": "Your brand here — paid placements, UGC content & brand-ambassador packages for companies in music, creation, community & education.",
       "cta": "Sponsor SEAUX9",
@@ -508,9 +508,39 @@ window.SEAUX9_DATA = {
     },
     "gear": [
       {
-        "name": "HOWEASY H120 Power Station",
-        "role": "Runs the rig off-grid — reviewed, approved",
+        "name": "HOWEASY H120 Portable Power Station",
+        "role": "Runs the whole rig off-grid",
         "url": "https://seaux9.art/go/h120/",
+        "status": "affiliate-live"
+      },
+      {
+        "name": "Akai MPC One",
+        "role": "The heartbeat of the studio",
+        "url": "https://seaux9.art/go/mpc-one/",
+        "status": "affiliate-live"
+      },
+      {
+        "name": "Shure Super 55 Deluxe Vocal Microphone",
+        "role": "The chrome mic you see on every set",
+        "url": "https://seaux9.art/go/super55/",
+        "status": "affiliate-live"
+      },
+      {
+        "name": "Behringer UFO202-BK USB Audio Interface",
+        "role": "Cheapest interface that gets the job done — RCA in/out",
+        "url": "https://seaux9.art/go/ufo202/",
+        "status": "affiliate-live"
+      },
+      {
+        "name": "SmallRig Universal Smartphone Video Kit",
+        "role": "Holds the phone, the light and the mic",
+        "url": "https://seaux9.art/go/smallrig-kit/",
+        "status": "affiliate-live"
+      },
+      {
+        "name": "HOWEASY H135 Portable Power Station",
+        "role": "Bigger sibling of the H120",
+        "url": "https://seaux9.art/go/h135/",
         "status": "affiliate-live"
       },
       {
@@ -574,6 +604,7 @@ window.SEAUX9_DATA = {
         "status": "target"
       }
     ],
-    "disclosure": "As an Amazon Associate, SEAUX9 earns from qualifying purchases."
+    "disclosure": "As an Amazon Associate, SEAUX9 earns from qualifying purchases.",
+    "storeLink": "https://seaux9.art/gear/"
   }
 };
