@@ -508,6 +508,12 @@ window.SEAUX9_DATA = {
     },
     "gear": [
       {
+        "name": "HOWEASY H120 Power Station",
+        "role": "Runs the rig off-grid — reviewed, approved",
+        "url": "https://seaux9.art/go/h120/",
+        "status": "affiliate-live"
+      },
+      {
         "name": "Akai MPC",
         "role": "The heartbeat — every beat lives here",
         "url": "",
@@ -567,6 +573,7 @@ window.SEAUX9_DATA = {
         "url": "",
         "status": "target"
       }
-    ]
+    ],
+    "disclosure": "As an Amazon Associate, SEAUX9 earns from qualifying purchases."
   }
 };

@@ -152,7 +152,9 @@
         }).join('');
       });
       set('sponsor-cta', (el) => {
-        el.innerHTML = `<p>${esc(data.arsenal.sponsorCta.line)}</p>
+        const disc = data.arsenal.disclosure
+          ? `<p style="font-size:.82rem;opacity:.65;margin-bottom:1rem">${esc(data.arsenal.disclosure)}</p>` : '';
+        el.innerHTML = disc + `<p>${esc(data.arsenal.sponsorCta.line)}</p>
           <a class="btn btn-sun" href="${esc(data.arsenal.sponsorCta.url)}">${esc(data.arsenal.sponsorCta.cta)} ✦</a>`;
       });
     }
