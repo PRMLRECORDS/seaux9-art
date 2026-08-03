@@ -5,14 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Join the 9Squad — SEAUX9</title>
 <meta name="robots" content="noindex">
-<meta http-equiv="refresh" content="0;url=https://tally.so/r/D4EQbl?source=qr">
+<meta http-equiv="refresh" content="0;url=../card/?source=join">
 <style>
   body { background:#011627; color:#FDFFFC; font-family:sans-serif; display:grid; place-items:center; height:100vh; margin:0; text-align:center; }
   a { color:#41EAD4; }
 </style>
 </head>
 <body>
-  <p>Taking you to the 9Squad signup…<br><a href="https://tally.so/r/D4EQbl?source=qr">Tap here if nothing happens</a></p>
-  <script>location.replace("https://tally.so/r/D4EQbl?source=qr");</script>
+  <p>Taking you to the 9Squad signup…<br><a href="../card/?source=join">Tap here if nothing happens</a></p>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const src = params.get('source') || 'join';
+    location.replace('../card/?source=' + encodeURIComponent(src));
+  </script>
 </body>
 </html>
